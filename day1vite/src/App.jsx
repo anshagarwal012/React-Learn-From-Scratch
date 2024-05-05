@@ -1,7 +1,8 @@
 function App() {
+  const name = "Vite"
+
   return (
-    <h1>Hello World | Vite</h1>
+    <h1>Hello World | {name}</h1>
   )
 }
-
 export default App
